@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charalampos Kalalas on Charalampos Kalalas</title>
+    <link>https://ckalalas.github.io/</link>
+    <description>Recent content in Charalampos Kalalas on Charalampos Kalalas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Charalampos Kalalas</copyright>
+    <lastBuildDate>Sun, 16 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Efficient Cell Planning for Reliable Support of Event-Driven Machine-Type Traffic in LTE</title>
+      <link>https://ckalalas.github.io/publication/globe17/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/globe17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Transmission Mode Selection for Substation Automation Traffic in Cellular Networks</title>
+      <link>https://ckalalas.github.io/publication/sgcomm17/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/sgcomm17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P2P Model for Distributed Energy Trading, Grid Control and ICT for Local Smart Grids</title>
+      <link>https://ckalalas.github.io/publication/eucnc17/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/eucnc17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability Analysis of the Random Access Channel of LTE with Access Class Barring for Smart Grid Monitoring Traffic</title>
+      <link>https://ckalalas.github.io/publication/icc17/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/icc17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project ADVANTAGE at IEEE ICC 2017, Paris, France</title>
+      <link>https://ckalalas.github.io/post/may17b/</link>
+      <pubDate>Tue, 23 May 2017 11:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/post/may17b/</guid>
+      <description>&lt;p&gt;In the context of the IEEE International Conference on Communications, 21st – 25th May 2017, the workshop included:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Two plenary talks from Prof. Petar Popovski from Aalborg University, Denmark and Prof. Andrea Tonello from the University of Klagenfurt, Austria&lt;/li&gt;
+&lt;li&gt;An afternoon Poster session&lt;/li&gt;
+&lt;li&gt;Demonstrations&lt;/li&gt;
+&lt;li&gt;Discussion on Future Research directions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visiting Researcher at Aalborg University, Denmark</title>
+      <link>https://ckalalas.github.io/post/may17a/</link>
+      <pubDate>Mon, 01 May 2017 11:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/post/may17a/</guid>
+      <description>&lt;p&gt;I visited the MassM2M research group at Aalborg University from May to July 2017. I worked on code-expanded random access schemes for massive machine-type communications under the supervision of Dr. Cedomir Stefanovic and Dr. Petar Popovski.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contention Tree-based Access for Wireless Machine-to-Machine Networks with Energy Harvesting</title>
+      <link>https://ckalalas.github.io/publication/ehcta17/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/ehcta17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of the Contention-Based Random Access of LTE under Smart Grid Traffic</title>
+      <link>https://ckalalas.github.io/publication/sgift17/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/sgift17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://ckalalas.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of research in the ADVANTAGE project</title>
+      <link>https://ckalalas.github.io/publication/bchapter16/</link>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/bchapter16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling Mission-Critical Communication in Smart Grid Distribution Automation Services through LTE</title>
+      <link>https://ckalalas.github.io/publication/sgcomm16/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/sgcomm16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Grid seminar at the Royal Society, London</title>
+      <link>https://ckalalas.github.io/post/oct16a/</link>
+      <pubDate>Fri, 28 Oct 2016 11:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/post/oct16a/</guid>
+      <description>&lt;p&gt;One day Research Seminar held at the Royal Society in London on 28th October 2016, attended by forty three delegates. The event gathered together leading names in the field of Smart Grid development including notable academics, industrialists and international research groups.&lt;/p&gt;
+
+&lt;p&gt;Talks were given as follows:&lt;/p&gt;
+
+&lt;p&gt;-Alastair Martin, Flexitricity&lt;br /&gt;
+“An Overview of Demand Response for the Smart Grid”&lt;/p&gt;
+
+&lt;p&gt;-Damien Ernst, University of Liège&lt;br /&gt;
+“Active network management for Distribution Network: an integrated approach&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;-Stephen McArthur, University of Strathclyde&lt;br /&gt;
+“Distributed Intelligence and Analytics for improved Operation of Power Networks&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;-Dimitrios Rovas, University College London&lt;br /&gt;
+“Model-based energy management in non-residential Buildings&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;-Andres Laya, Wireless@KTH:&lt;br /&gt;
+“Interdisciplinary Research in the Internet of Things (IoT)&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;and a panel session on Future Research Challenges for Smart Grid with the external speakers as panellists, also joined by Gordon Parker of Michigan Technological University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enabling IEC 61850 Communication Services over Public LTE Infrastructure</title>
+      <link>https://ckalalas.github.io/publication/icc16/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/icc16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADVANTAGE</title>
+      <link>https://ckalalas.github.io/project/advantage/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/project/advantage/</guid>
+      <description>&lt;p&gt;The main scientific focus of ADVANTAGE (ADVanced communicAtions and iNformaTion processing in smArt Grid systEms) will be on advancing the understanding of the smart grid operation, providing architectural solutions for smart grid systems and the contribution of innovative information and communication technology (ICT) solutions. Within this broad research area, ADVANTAGE is organised to achieve research advances in the following four target areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Smart Homes: progressing the development of ICT solutions and applications in household environments to intelligent, customer-friendly, efficient and incentive-responsive home energy management solutions for smart grid household consumers&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Neighbourhood/Industrial Area Networks: providing efficient wide-area ICT solutions for advanced smart grid data exchange, gathering, processing and decision making in larger consumer conglomerations and environments&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Micro Grids: developing ICT solutions for challenging problem of integration and distributed control of micro grids in smart grids&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Intelligent Distribution Networks: advancements towards intelligent distribution network that will maintain efficient distribution management, load clustering, demand side management, distributed micro grid control, and two-way communication with customers and micro grids through Advanced Metering Infrastructure (AMI)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Project website: &lt;a href=&#34;http://fp7-advantage.eu&#34; target=&#34;_blank&#34;&gt;http://fp7-advantage.eu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The project has received funding from the European Union’s Seventh Framework Programme for research, technological development and demonstration under grant agreement no. 607774.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LTE4SE</title>
+      <link>https://ckalalas.github.io/project/lte4se/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/project/lte4se/</guid>
+      <description>&lt;p&gt;Considering a specific innovation objective, LTE 4 Smart Energy (LTE4SE) aims to evaluate and demonstrate how LTE technologies can enable Smart Grid applications, from monitoring to real time control. In particular, the project will produce a holistic view on the economic and technical tradeoffs for delivering Smart Gird services using public LTE infrastructure. Running under the “Smart Energy Systems Action” Line, the project brings together the following partners: Siemens, Ericsson and KTH.&lt;/p&gt;
+
+&lt;p&gt;The project received funding from the EIT ICT Labs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

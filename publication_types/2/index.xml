@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Charalampos Kalalas</title>
+    <link>https://ckalalas.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Charalampos Kalalas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Charalampos Kalalas</copyright>
+    <lastBuildDate>Sat, 15 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contention Tree-based Access for Wireless Machine-to-Machine Networks with Energy Harvesting</title>
+      <link>https://ckalalas.github.io/publication/ehcta17/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/ehcta17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goodbye, ALOHA!</title>
+      <link>https://ckalalas.github.io/publication/gbaloha/</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/gbaloha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cellular Communications for Smart Grid Neighborhood Area Networks: A Survey</title>
+      <link>https://ckalalas.github.io/publication/cellsgnans/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/cellsgnans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

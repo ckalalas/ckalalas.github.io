@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Charalampos Kalalas</title>
+    <link>https://ckalalas.github.io/tags/workshop/</link>
+    <description>Recent content in Workshop on Charalampos Kalalas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Charalampos Kalalas</copyright>
+    <lastBuildDate>Tue, 23 May 2017 11:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/workshop/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project ADVANTAGE at IEEE ICC 2017, Paris, France</title>
+      <link>https://ckalalas.github.io/post/may17b/</link>
+      <pubDate>Tue, 23 May 2017 11:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/post/may17b/</guid>
+      <description>&lt;p&gt;In the context of the IEEE International Conference on Communications, 21st – 25th May 2017, the workshop included:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Two plenary talks from Prof. Petar Popovski from Aalborg University, Denmark and Prof. Andrea Tonello from the University of Klagenfurt, Austria&lt;/li&gt;
+&lt;li&gt;An afternoon Poster session&lt;/li&gt;
+&lt;li&gt;Demonstrations&lt;/li&gt;
+&lt;li&gt;Discussion on Future Research directions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

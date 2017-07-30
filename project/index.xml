@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Charalampos Kalalas</title>
+    <link>https://ckalalas.github.io/project/</link>
+    <description>Recent content in Projects on Charalampos Kalalas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Charalampos Kalalas</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ADVANTAGE</title>
+      <link>https://ckalalas.github.io/project/advantage/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/project/advantage/</guid>
+      <description>&lt;p&gt;The main scientific focus of ADVANTAGE (ADVanced communicAtions and iNformaTion processing in smArt Grid systEms) will be on advancing the understanding of the smart grid operation, providing architectural solutions for smart grid systems and the contribution of innovative information and communication technology (ICT) solutions. Within this broad research area, ADVANTAGE is organised to achieve research advances in the following four target areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Smart Homes: progressing the development of ICT solutions and applications in household environments to intelligent, customer-friendly, efficient and incentive-responsive home energy management solutions for smart grid household consumers&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Neighbourhood/Industrial Area Networks: providing efficient wide-area ICT solutions for advanced smart grid data exchange, gathering, processing and decision making in larger consumer conglomerations and environments&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Micro Grids: developing ICT solutions for challenging problem of integration and distributed control of micro grids in smart grids&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Intelligent Distribution Networks: advancements towards intelligent distribution network that will maintain efficient distribution management, load clustering, demand side management, distributed micro grid control, and two-way communication with customers and micro grids through Advanced Metering Infrastructure (AMI)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Project website: &lt;a href=&#34;http://fp7-advantage.eu&#34; target=&#34;_blank&#34;&gt;http://fp7-advantage.eu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The project has received funding from the European Union’s Seventh Framework Programme for research, technological development and demonstration under grant agreement no. 607774.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LTE4SE</title>
+      <link>https://ckalalas.github.io/project/lte4se/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/project/lte4se/</guid>
+      <description>&lt;p&gt;Considering a specific innovation objective, LTE 4 Smart Energy (LTE4SE) aims to evaluate and demonstrate how LTE technologies can enable Smart Grid applications, from monitoring to real time control. In particular, the project will produce a holistic view on the economic and technical tradeoffs for delivering Smart Gird services using public LTE infrastructure. Running under the “Smart Energy Systems Action” Line, the project brings together the following partners: Siemens, Ericsson and KTH.&lt;/p&gt;
+
+&lt;p&gt;The project received funding from the EIT ICT Labs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>P2P-SmarTest</title>
+      <link>https://ckalalas.github.io/project/p2psmartest/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/project/p2psmartest/</guid>
+      <description>&lt;p&gt;The project investigates and demonstrates a smarter electricity distribution system integrated with advanced ICT, regional markets and innovative business models.&lt;/p&gt;
+
+&lt;p&gt;It employs Peer-to-Peer (P2P) approaches to ensure the integration of demand side flexibility and the optimum operation of DER and other resources within the network while maintaining second-to-second power balance and the quality and security of the supply.&lt;/p&gt;
+
+&lt;p&gt;Project website: &lt;a href=&#34;http://www.p2psmartest-h2020.eu&#34; target=&#34;_blank&#34;&gt;http://www.p2psmartest-h2020.eu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The project has received funding from the European Union&amp;rsquo;s Horizon 2020 research and innovation programme under grant agreement No 646469.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual-Based In-Flight File Transfer</title>
+      <link>https://ckalalas.github.io/project/inflight/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/project/inflight/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/X9ysYu9xGb8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;This project targets a situation onboard a plane where two passengers, having Android smartphone devices, want to transmit a file from one phone’s SD-card to the other. Radio transmission is prohibited onboard, since it may interfere with the aircraft navigation and communication systems.  This leads to the need of finding an innovative way of transmission. This paper explains the development of such a technology, which is based on visual transmission via QR codes. Different QR codes have been implemented and tested for fast and reliable transfer of data. Our application can achieve a speed of more than 1 KB/s. The reliability depends on the QR code and the version selected. Testing shows that the best performance is attained with color QR codes.&lt;/p&gt;
+
+&lt;p&gt;The project was implemented in the context of the KTH Master´s course: EQ2440 - Project in Wireless Communication.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

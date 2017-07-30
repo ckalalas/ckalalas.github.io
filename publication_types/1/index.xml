@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Charalampos Kalalas</title>
+    <link>https://ckalalas.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Charalampos Kalalas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Charalampos Kalalas</copyright>
+    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Efficient Cell Planning for Reliable Support of Event-Driven Machine-Type Traffic in LTE</title>
+      <link>https://ckalalas.github.io/publication/globe17/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/globe17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Transmission Mode Selection for Substation Automation Traffic in Cellular Networks</title>
+      <link>https://ckalalas.github.io/publication/sgcomm17/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/sgcomm17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P2P Model for Distributed Energy Trading, Grid Control and ICT for Local Smart Grids</title>
+      <link>https://ckalalas.github.io/publication/eucnc17/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/eucnc17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability Analysis of the Random Access Channel of LTE with Access Class Barring for Smart Grid Monitoring Traffic</title>
+      <link>https://ckalalas.github.io/publication/icc17/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/icc17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Evaluation of the Contention-Based Random Access of LTE under Smart Grid Traffic</title>
+      <link>https://ckalalas.github.io/publication/sgift17/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/sgift17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Handling Mission-Critical Communication in Smart Grid Distribution Automation Services through LTE</title>
+      <link>https://ckalalas.github.io/publication/sgcomm16/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/sgcomm16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling IEC 61850 Communication Services over Public LTE Infrastructure</title>
+      <link>https://ckalalas.github.io/publication/icc16/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckalalas.github.io/publication/icc16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
