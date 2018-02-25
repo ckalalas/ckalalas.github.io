@@ -360,7 +360,7 @@ ul.ul-edu li .description p.course {
 }
 
 ul.ul-edu li .description p.institution {
-  font-size: 0.9rem;
+  font-size: 0.75rem; /*0.75*/
   color: rgba(0,0,0,0.6);
 }
 
